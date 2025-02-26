@@ -1,0 +1,5 @@
+[2025-02-26T03:59:17.087Z] Server started on port 8080
+[2025-02-26T03:59:25.100Z] GET / HTTP/1.1 from ::ffff:127.0.0.1
+[2025-02-26T03:59:25.103Z] 200 OK - Content Length: 12
+[2025-02-26T03:59:25.490Z] GET /favicon.ico HTTP/1.1 from ::ffff:127.0.0.1
+[2025-02-26T03:59:25.491Z] 200 OK - Content Length: 12
