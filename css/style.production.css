@@ -14,7 +14,7 @@ body {
 }
 
 header {
-  background-color: #2769a7;
+  background-color: #048673;
   height: 50px;
   display: flex;
   align-items: center;
@@ -24,23 +24,35 @@ header {
 .navbar-brand {
   font-size: 1.8rem;
   font-weight: bold;
-  color: #f8d61f;
+  color: #f88f1f;
 }
 
+nav.navbar.navbar-expand-lg.navbar-dark.bg-primary {
+  background-color: #155da0 !important;
+}; 
 .profile {
   max-width: 88%;
   margin: 20px auto;
-  margin-bottom:20px;
+  margin-bottom:20px; 
   text-align: center;
   padding: 60px;
   background-color: #ffffff;
   border-radius: 8px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
+ h1 {
+  padding: 40px
+ }
+.profile p {
+  font-size: 1.2rem;
+  color: #0a3ea7;
+  font-weight: bold;
+  margin: 5px 0;
+}
 
 .header__title {
   font-size: 2.5rem;
-  color: #ba0c0c;
+  color: #b42a2a;
   margin-bottom: 20px;
   font-weight: bold;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
@@ -50,7 +62,7 @@ footer {
   margin-top: 40px;
   text-align: center;
   font-size: large;
-  background-color: #2769a7;
+  background-color: #048673;
   color: white;
   padding: 20px;
   border-top: 2px solid #444;
